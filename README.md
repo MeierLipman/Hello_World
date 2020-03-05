@@ -1,7 +1,8 @@
 ## Sample Repository
 
-# NBA and ABA League Index
 *This is a sample for a Professional Preperation class* 
+
+# NBA and ABA League Index
 
 The data collected displays the league champion, league MVP, rookie of the year, and leaders in respective statistical measures (rebounds, points, etc.).
 
