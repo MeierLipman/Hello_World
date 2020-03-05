@@ -2,6 +2,7 @@
 
 # NBA and ABA League Index
 *This is a sample for a Professional Preperation class* 
+
 The data collected displays the league champion, league MVP, rookie of the year, and leaders in respective statistical measures (rebounds, points, etc.).
 
 # Files Used
