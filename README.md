@@ -1,4 +1,9 @@
-# Hello_World
-Introduction - Practice Repository
+## Sample Repository
 
-I am a student at the University of Iowa with a major in Business Analytics and a minor in Environmental Planning and Policy. My anticipated graduation is May of 2021.
+# NBA and ABA League Index
+*This is a sample for a Professional Preperation class* 
+The data collected displays the league champion, league MVP, rookie of the year, and leaders in respective statistical measures (rebounds, points, etc.).
+
+# Files Used
+I extracted this data from Basketball Reference Database, which is a database that collects all statistical information regarding the NBA and ABA (the league before the creation of the NBA).
+**Link to Database:** https://www.basketball-reference.com/leagues/
